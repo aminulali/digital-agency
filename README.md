@@ -1,4 +1,7 @@
-# digital-agency
 Digital Agency Project
 
-Open: index.html --- style.css
+Technologies used: HTML, CSS, Bootstrap
+
+About: A digital agency website.
+
+To view code, open files -> index.html --- style.css
